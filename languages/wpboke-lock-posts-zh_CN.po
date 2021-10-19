@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPboke Lock Posts\n"
+"POT-Creation-Date: 2021-10-19 13:20+0800\n"
+"PO-Revision-Date: 2021-10-19 13:20+0800\n"
+"Last-Translator: 薇晓朵 <support@weixiaoduo.com>\n"
+"Language-Team: 薇晓朵 <support@weixiaoduo.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpboke-lock-posts.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: wpboke-lock-posts.php:102
+msgid "Lock Status"
+msgstr "锁定状态"
+
+#: wpboke-lock-posts.php:118 wpboke-lock-posts.php:154
+msgid "Locked"
+msgstr "已锁定"
+
+#: wpboke-lock-posts.php:120 wpboke-lock-posts.php:155
+msgid "Unlocked"
+msgstr "未锁定"
+
+#: wpboke-lock-posts.php:132
+msgid "Post Status"
+msgstr "文章状态"
+
+#: wpboke-lock-posts.php:157
+msgid "Locked posts cannot be edited by anyone other than Super admins."
+msgstr "除超级管理员之外，任何人都不能编辑锁定的文章。"
+
+#: wpboke-lock-posts.php:194
+msgid "Post Locked"
+msgstr "文章已锁定"
+
+#: wpboke-lock-posts.php:195
+#, php-format
+msgid ""
+"The post \"%s\" has been locked by a Super admin and you aren't able to edit "
+"it."
+msgstr "文章\"%s\"已被超级管理员锁定，您目前无法进行编辑。"
+
+#: wpboke-lock-posts.php:196
+msgid "Back to Posts List"
+msgstr "返回到文章列表"
+
+#. Plugin Name of the plugin/theme
+msgid "WPboke Lock Posts"
+msgstr "文派博客文章锁定"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wpzhanqun.com/plugins/lock-posts"
+msgstr "https://wpzhanqun.com/plugins/lock-posts"
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin allows network admin to lock down posts(support any CPT) on any "
+"site so that regular users just can't edit them."
+msgstr ""
+"此插件允许网络管理员锁定任何站点上的文章（自定义文章类型），使普通用户无法进"
+"行编辑内容。"
+
+#. Author of the plugin/theme
+msgid "WPboke"
+msgstr "文派博客"
+
+#. Author URI of the plugin/theme
+msgid "https://wpboke.com/"
+msgstr "https://wpboke.com/"
+
+#~ msgid "WPboke Lock Posts is only compatible with Multisite installs."
+#~ msgstr "文派博客文章锁定仅与多站点安装兼容。"

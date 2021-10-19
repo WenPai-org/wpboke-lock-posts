@@ -1,0 +1,10 @@
+Plugin Name: WPboke Lock Posts
+Author: WPboke
+Lead developer: WenPai
+
+Change Log:
+
+
+1.0.0 - 10/19/2021
+----------------------------------------------------------------------
+- Initial Release.
